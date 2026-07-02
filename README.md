@@ -171,22 +171,14 @@ A fully responsive portfolio website showcasing my projects, skills, resume, and
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsdshahil-byte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fsdshahil-bytetheme=tokyonight&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsdshahil-byte&theme=tokyo-night&hide_border=true" />
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fsdshahil-byte/fsdshahil-byteoutput/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ## 🤝 Connect With Me
 
 <p align="center">
