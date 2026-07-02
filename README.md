@@ -95,9 +95,9 @@ AI-powered web application designed to deliver intelligent conversations with a 
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
 
-🔗 **Repository:** https://github.com/USERNAME/Nanna-AI
+🔗 **Repository:** https://github.com/fsdshahil-byte/Nanna-AI-Assistant.git
 
-🌐 **Live Demo:** https://YOUR-LIVE-DEMO.vercel.app
+🌐 **Live Demo:** On Process
 
 ---
 
@@ -116,9 +116,9 @@ A real-time employee management system featuring role-based dashboards, secure a
 
 `MongoDB` • `Express.js` • `React.js` • `Node.js` • `Socket.IO`
 
-🔗 **Repository:** https://github.com/USERNAME/workforce-management
+🔗 **Repository:** https://github.com/fsdshahil-byte/Employee-Management-System.git
 
-🌐 **Live Demo:** https://YOUR-DEMO.vercel.app
+🌐 **Live Demo:** https://employee-management-system-3-amix.onrender.com/
 
 ---
 
@@ -137,9 +137,9 @@ A luxury used car marketplace with a modern shopping experience, dynamic listing
 
 `React` • `Node.js` • `MongoDB` • `Express.js`
 
-🔗 **Repository:** https://github.com/USERNAME/EX-Benzy
+🔗 **Repository:** https://github.com/fsdshahil-byte/Ex-Bezny.git
 
-🌐 **Live Demo:** https://YOUR-DEMO.vercel.app
+🌐 **Live Demo:** https://ex-beznyy.onrender.com/
 
 ---
 
@@ -158,51 +158,51 @@ A fully responsive portfolio website showcasing my projects, skills, resume, and
 
 `React` • `JavaScript` • `Bootstrap`
 
-🔗 **Repository:** https://github.com/USERNAME/portfolio
+🔗 **Repository:** https://github.com/fsdshahil-byte/Portfolio.git
 
-🌐 **Live Demo:** https://YOURPORTFOLIO.vercel.app
+🌐 **Live Demo:** https://portfolio2490.netlify.app/
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsdshahil-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsdshahil-byte&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fsdshahil-bytetheme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsdshahil-byte&theme=tokyo-night&hide_border=true" />
 </p>
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fsdshahil-byte/fsdshahil-byteoutput/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shahilm2490/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/fsdshahil-byteE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:fsdshahil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://YOUR_PORTFOLIO.vercel.app">
+  <a href="https://portfolio2490.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
