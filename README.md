@@ -13,7 +13,7 @@ I'm a MERN Stack Developer passionate about building scalable web applications.
 
 ### 💻 Technologies I Work With
 
-<p align="center">
+<p align="center" display="flex>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,vite,git,github,vscode,postman,npm,vercel,netlify,nextjs,docker&perline=7" />
 </p>
 
